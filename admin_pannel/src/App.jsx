@@ -11,7 +11,7 @@ import "react-toastify/dist/ReactToastify.css";
 //You can also coinbine name and Default Import
 
 const App = () => {
-  const url = "http://localhost:4000";
+  const url = "https://fooddelivery-mern-fullstack.onrender.com";
   return (
     <div>
       <ToastContainer />
